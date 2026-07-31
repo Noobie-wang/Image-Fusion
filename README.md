@@ -1,5 +1,13 @@
 # Image-Fusion
-| Command | Description |
-| --- | --- |
-| git status | List all new or modified files |
-| git diff | Show file differences that haven't been staged |
+| Title | Publication | Paper | Code |
+| --- | --- | --- | --- |
+| Customized Fusion: A Closed-Loop Dynamic Network for Adaptive Multi-Task-Aware Infrared-Visible Image Fusion | CVPR 2026 | [链接](https://openaccess.thecvf.com/content/CVPR2026/html/Yang_Customized_Fusion_A_Closed-Loop_Dynamic_Network_for_Adaptive_Multi-Task-Aware_Infrared-Visible_CVPR_2026_paper.html) | [链接](https://github.com/YR0211/CLDyN)|
+| Beyond Strict Pairing: Arbitrarily Paired Training for High-Performance Infrared and Visible Image Fusion | CVPR 2026 | [链接](https://openaccess.thecvf.com/content/CVPR2026/html/Deng_Beyond_Strict_Pairing_Arbitrarily_Paired_Training_for_High-Performance_Infrared_and_CVPR_2026_paper.html) | [链接](https://github.com/yanglinDeng/IVIF_unpair) |
+| MagicFuse: Single Image Fusion for Visual and Semantic Reinforcement | CVPR 2026 | [链接](https://openaccess.thecvf.com/content/CVPR2026/html/Zhang_MagicFuse_Single_Image_Fusion_for_Visual_and_Semantic_Reinforcement_CVPR_2026_paper.html) | [链接](https://github.com/zhayanping/MagicFuse) |
+| ReCoFuse: Ultra-Robust Image Fusion Via Restorative Multi-Modal Diffusion Reciprocal Coupling | CVPR 2026 | [链接](https://openaccess.thecvf.com/content/CVPR2026/html/Zhang_ReCoFuse_Ultra-Robust_Image_Fusion_via_Restorative_Multi-Modal_Diffusion_Reciprocal_Coupling_CVPR_2026_paper.html) | [链接](https://github.com/HaoZhang1018/ReCoFuse) |
+| Multi-Modal Image Fusion Via Intervention-Stable Feature Learning | CVPR 2026 | [链接](https://openaccess.thecvf.com/content/CVPR2026/html/Wang_Multi-Modal_Image_Fusion_via_Intervention-Stable_Feature_Learning_CVPR_2026_paper.html) | [链接](https://github.com/wang-x-1997/Multi-Modal-Image-Fusion-via-Intervention-Stable-Feature-Learning) |
+| UniFusion: A Unified Image Fusion Framework with Robust Representation and Source-Aware Preservation | CVPR 2026 | [链接](https://openaccess.thecvf.com/content/CVPR2026/html/Li_UniFusion_A_Unified_Image_Fusion_Framework_with_Robust_Representation_and_CVPR_2026_paper.html) | [链接](https://github.com/dusongcheng/UniFusion)|
+| Bridging Human Evaluation to Infrared and Visible Image Fusion | CVPR 2026 | [链接](https://openaccess.thecvf.com/content/CVPR2026/html/Liu_Bridging_Human_Evaluation_to_Infrared_and_Visible_Image_Fusion_CVPR_2026_paper.html) | [链接](https://github.com/ALKA-Wind/EVAFusion) |
+| Missing No More: Dictionary-Guided Cross-Modal Image Fusion Under Missing Infrared | CVPR 2026 | [链接](https://openaccess.thecvf.com/content/CVPR2026/html/Zhang_Missing_No_More_Dictionary-Guided_Cross-Modal_Image_Fusion_under_Missing_Infrared_CVPR_2026_paper.html) | [链接](https://github.com/harukiv/DCMIF) |
+| More Than Meets The Eye: A Unified Image Fusion Framework Via Semantic-Pixel Entropy Trade-off for Zero-Shot Generalization | CVPR 2026 | [链接](https://openaccess.thecvf.com/content/CVPR2026/html/Liu_More_Than_Meets_the_Eye_A_Unified_Image_Fusion_Framework_CVPR_2026_paper.html) | [**链接**](https://github.com/XiaoW-Liu/DECC) |
+| Fusion in Your Way: Aligning Image Fusion with Heterogeneous Demands Via Direct Preference Optimization | CVPR 2026 | [链接](https://openaccess.thecvf.com/content/CVPR2026/html/Su_Fusion_in_Your_Way_Aligning_Image_Fusion_with_Heterogeneous_Demands_CVPR_2026_paper.html) | [链接](https://github.com/suweijian1996/DPOFusion)|
