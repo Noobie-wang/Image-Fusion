@@ -1,4 +1,4 @@
-# Image-Fusion
+# Image Fusion
 | Title | Publication | Paper | Code |
 | --- | --- | --- | --- |
 | Customized Fusion: A Closed-Loop Dynamic Network for Adaptive Multi-Task-Aware Infrared-Visible Image Fusion | CVPR 2026 | [链接](https://openaccess.thecvf.com/content/CVPR2026/html/Yang_Customized_Fusion_A_Closed-Loop_Dynamic_Network_for_Adaptive_Multi-Task-Aware_Infrared-Visible_CVPR_2026_paper.html) | [链接](https://github.com/YR0211/CLDyN)|
